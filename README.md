@@ -1,6 +1,6 @@
 # Landing Page Pereira Neto Projetos & Construção
 
-<img src="./images/Travel-Buddy preview.png" alt="Travel-Buddy-preview">
+<img src="./imgs/preview-projetos-neto.png" alt="preview">
 
 ## Introduction
 
